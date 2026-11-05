@@ -95,6 +95,8 @@ Use this with any seller, including us:
 
 Red flags: lifetime deals, prices far below the market, no trial, no channel list, Telegram-only support.
 
+A shorter, step-by-step version of this checklist: [How to choose an IPTV service in the UK](how-to-choose-an-iptv-service-in-the-uk.md).
+
 ## Common UK channel categories
 
 - **Terrestrial:** BBC One/Two/Three/Four, ITV1–4, Channel 4, Channel 5, regional variants
@@ -137,6 +139,7 @@ Only with a 4K TV, a 4K-capable device and 100 Mbps broadband. See [4K IPTV UK](
 
 ## Further reading
 
+- [How to choose an IPTV service in the UK: a practical 2026 checklist](how-to-choose-an-iptv-service-in-the-uk.md)
 - [Best IPTV UK](https://smartvpro.co.uk/best-iptv-uk/)
 - [IPTV box UK](https://smartvpro.co.uk/iptv-box-uk/)
 - [IPTV Smarters Pro UK setup](https://smartvpro.co.uk/iptv-smarters-pro-uk/)
