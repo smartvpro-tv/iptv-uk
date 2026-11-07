@@ -70,6 +70,8 @@ Which app for which device: [awesome-iptv-players](https://github.com/smartvpro-
 
 Most UK buffering comes from Wi-Fi, not the broadband package. Run an Ethernet cable or powerline adapter to the TV. More fixes in [iptv-troubleshooting](https://github.com/smartvpro-tv/iptv-troubleshooting).
 
+To measure the real speed between your home and the stream itself, for example during a Saturday 3pm kick-off, use the free [iptv-toolkit](https://github.com/smartvpro-tv/iptv-toolkit) and follow the [IPTV UK testing guide](https://smartvpro-tv.github.io/iptv-toolkit/uk.html).
+
 ## ISP blocking and VPNs
 
 UK ISPs are required by court orders to block certain IPTV servers, and the blocking is strongest around live Premier League matches on Saturday afternoons and Monday evenings. Symptoms: streams that work on mobile data but not at home, or that fail only at kick-off.
